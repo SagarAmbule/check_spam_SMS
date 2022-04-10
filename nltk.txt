@@ -1,0 +1,3 @@
+# make nltk.txt file
+stopwords
+punkt
